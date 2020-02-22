@@ -1,0 +1,41 @@
+
+legend{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table td{
+    display: inline-block;
+    width: 400px;
+    margin-top: 10px;
+    
+}
+table tr input{
+   
+    width: 100%;
+    outline-offset: 0;
+    outline: none;
+    padding:12px;
+    border:1px solid #63D052;
+    border-radius: 10px;
+}
+
+label{
+    margin-left:20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.btn input{
+    width: 150px;
+    padding:10px 10px;
+    border-radius: 4px;
+    margin:5px;
+    outline: none;
+    text-transform: capitalize;
+    font-weight: bold;
+    cursor: pointer;
+}
