@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1000px)
+{
+    div.description{
+        padding: 0px;
+    }
+    
+legend{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+table td{
+    display: inline-block;
+    width: 400px;
+    margin-top: 10px;
+    
+}
+table tr input{
+   
+    width: 80%;
+    outline-offset: 0;
+    outline: none;
+    padding:12px;
+    border:1px solid #63D052;
+    border-radius: 0px 10px 10px 0px;
+}
+
+label{
+    margin-left:20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+}

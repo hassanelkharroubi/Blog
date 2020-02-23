@@ -4,6 +4,9 @@
     margin: 0px;
     text-decoration: none;
 }
+.dropdown{
+    display: none;
+}
 a{
     color:#FF9000;
     display:inline-block;
@@ -79,8 +82,8 @@ div.aside aside ul li{
 }
 div.description{
    
-    height: 80vh;
-    background-color:#A89FDF ;
+height: 80vh;
+background-color:#A89FDF ;
  margin-left: 150px;
  padding-left: 100px;
  padding-right: 50px;
