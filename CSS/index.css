@@ -57,6 +57,21 @@ header ul li{
     font-size: 20px;
     
 }
+header ul li:hover{
+	
+	background-color:#555;
+	border-radius: 4px;
+}
+
+div.aside ul li:hover{
+	
+	background-color:#555;
+	border-radius: 4px 0px 0px 4px;
+	padding-left: 10px;
+	
+
+	
+}
 .clear{
     clear: both;
 }
